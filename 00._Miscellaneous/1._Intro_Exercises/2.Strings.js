@@ -45,6 +45,7 @@ const letters = "abc";
 // Get me the character "c"
 
 const lastletter = letters.charAt(2)
+//const letterc = letters[2] kan også bruges
 console.log(lastletter)
 
 
