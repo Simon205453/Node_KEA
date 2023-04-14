@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mjs": "^1.0.0",
+    "nodemon": "^2.0.22"
   },
-  "name": "03._plain_html_server",
+  "name": "08._middleware",
   "version": "1.0.0",
   "main": "app.js",
   "type": "module",
@@ -15,4 +17,3 @@
   "license": "ISC",
   "description": ""
 }
-

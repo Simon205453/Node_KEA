@@ -1,4 +1,5 @@
-const express = require("express");
+import tanksRouter from "./routers/tanksRouter.js"
+import express from "express";
 const app = express();
 
 app.use(express.static("public"));
